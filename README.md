@@ -1,16 +1,6 @@
-# i_am_rich
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧪 Lab 1: I Am Rich  
+**Mục tiêu:** Làm quen với Flutter và cách tạo một ứng dụng đơn giản từ đầu.  
+**Nội dung:**  
+- Tạo một ứng dụng hiển thị hình ảnh viên kim cương và dòng chữ “I Am Rich”.  
+- Làm quen với các thành phần cơ bản như `MaterialApp`, `Scaffold`, `AppBar`, `Image`, và `Text`.  
+- Hiểu được cấu trúc thư mục và vòng đời một ứng dụng Flutter.
